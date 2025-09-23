@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Collins 👋  
 
-<!--
-**CollinsVidzro/CollinsVidzro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer and founder of [Sendexa](https://sendexa.co)!  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently building Sendexa and Xtopay  
+- 💡 Interested in SMS, OTP, and payment systems  
+- 📫 Reach me at collins@sendexa.co  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- JavaScript / TypeScript  
+- Node.js, Next.js  
+- APIs & SMPP development  
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khodelhord&show_icons=true&theme=radical)  
