@@ -9,12 +9,12 @@
 
 ### 📍 About Me
 Hi, I'm **Collins Joe** — a passionate **tech founder and developer** from Ghana 🇬🇭.  
-I’m building **[Sendexa](https://sendexa.co)** to revolutionize communication services and **Xtopay** for seamless payments. My focus is on scalable APIs, modern web apps, and empowering businesses with innovative tools.  
+I’m building **[Sendexa](https://sendexa.co)** to revolutionize communication services and **[Xtopay](https://xtopay.co)** for seamless payments. My focus is on scalable APIs, modern web apps, and empowering businesses with innovative tools.  
 
 - 🔭 Currently working on: **Sendexa APIs & Xtopay Checkout**  
 - 🧠 Learning: **Microservices, SMPP, Advanced API Security**  
 - 🌐 Portfolio: [https://collinsjoe.me](https://collinsjoe.me)  
-- 📬 Email: **collins@sendexa.co**  
+- 📬 Email: **collins@xtottel.com**  
 - 🗺 Location: **Ho, Ghana | UTC+0**  
 - 🗣 Languages: **English**, **Ewe**, **Twi**
 
@@ -36,7 +36,7 @@ I’m building **[Sendexa](https://sendexa.co)** to revolutionize communication 
   <a href="mailto:collins@sendexa.co">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
-  <a href="https://github.com/khodelhord" target="_blank">
+  <a href="https://github.com/CollinsVidzro" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="30" />
   </a>
 </p>
@@ -64,9 +64,9 @@ I’m building **[Sendexa](https://sendexa.co)** to revolutionize communication 
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khodelhord&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khodelhord&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khodelhord&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CollinsVidzrod&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsVidzro&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CollinsVidzro&theme=tokyonight" />
 </p>
 
 ---
