@@ -64,7 +64,7 @@ I’m building **[Sendexa](https://sendexa.co)** to revolutionize communication 
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CollinsVidzrod&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CollinsVidzro&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsVidzro&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CollinsVidzro&theme=tokyonight" />
 </p>
